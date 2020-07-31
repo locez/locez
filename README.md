@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Data Structures and Algorithms
+
+![](https://github-readme-stats.vercel.app/api?username=locez)
+
+![ViewCount](https://views.whatilearened.today/views/github/locez/locez.svg)
