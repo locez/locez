@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/locez/locez.svg)
 
 <!--
 **locez/locez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=locez)
 
-![ViewCount](https://views.whatilearened.today/views/github/locez/locez.svg)
+
 
 #### Platform&Tools
 
