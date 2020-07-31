@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 #### Languages
 
-[![](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)](https://golang.org/)
+[![](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
