@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/Gentoo-Stable-purple?style=flat-square&logo=Gentoo)](https://www.gentoo.org/)
+[![](https://img.shields.io/badge/Visual%20Studio%20%20-Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Doom%20Emacs-27-blue?style=flat-square&logo=Gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
 
