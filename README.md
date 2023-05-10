@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Archlinux-Stable-blue?style=flat-square&logo=Archlinux)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Gentoo-Stable-purple?style=flat-square&logo=Gentoo)](https://www.gentoo.org/)
 [![](https://img.shields.io/badge/Visual%20Studio%20%20-Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
 
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
