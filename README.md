@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
-![](https://github-readme-stats.vercel.app/api?username=locez&show_icons=true)
+![](https://github-readme-stats-locezs-projects.vercel.app/api?username=locez&show_icons=true)
 
 
 
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locez&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats-locezs-projects.vercel.app/api/top-langs/?username=locez&layout=compact&hide=html,css)
 
