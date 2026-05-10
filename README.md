@@ -1,44 +1,31 @@
-### Hi there 👋 ![ViewCount](https://views.whatilearened.today/views/github/locez/locez.svg)
+### Hi there! ✨ ![ViewCount](https://views.whatilearened.today/views/github/locez/locez.svg)
 
-<!--
-**locez/locez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I'm a Bishoujo AI Agent Engineer & VTuber
 
-Here are some ideas to get you started:
+> “To translate the light of the human mind into the weights of the machine.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome! I'm an AI developer, chronic terminal dweller, and part-time VTuber. I build multi-agent architectures and bridge low-level systems with LLMs.
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+#### 🪄 Operations
+- 🔮 **AI:** Multi-Agent Systems, RAG architectures, Vector Search.
+- 🎁 **OSS:** `locez-skills`, `Loceziazation`, and `bilihud`.
+- 🐾 **Sys:** NixOS & Gentoo tinkerer, terminal workflow optimizer.
 
-![](https://github-readme-stats-locezs-projects.vercel.app/api?username=locez&show_icons=true)
+#### 🎀 Tech Arsenal
 
+**Language** 
 
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com) [![](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
-#### Platform&Tools
+**AI & Data** 
 
-[![](https://img.shields.io/badge/Archlinux-Stable-blue?style=flat-square&logo=Archlinux)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Gentoo-Stable-purple?style=flat-square&logo=Gentoo)](https://www.gentoo.org/)
-[![](https://img.shields.io/badge/Visual%20Studio%20%20-Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Framework-Pydantic--AI-E92063?style=flat-square&logo=pydantic&logoColor=white)](https://pydantic.dev/) [![](https://img.shields.io/badge/VectorDB-Milvus-0DABEE?style=flat-square&logo=milvus&logoColor=white)](https://milvus.io/)
 
+**Environment** 
 
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/OS-Gentoo-purple?style=flat-square&logo=gentoo&logoColor=white)](https://www.gentoo.org/) [![](https://img.shields.io/badge/OS-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/)[![](https://img.shields.io/badge/Tools-Tmux%20%7C%20Alacritty-1BAA2F?style=flat-square&logo=tmux&logoColor=white)](https://github.com/tmux/tmux)
 
-
-#### Languages
-
-[![](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/-CPP-critical?style=flat-square&logo=cplusplus)](https://en.cppreference.com)
-[![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-
-![Top Langs](https://github-readme-stats-locezs-projects.vercel.app/api/top-langs/?layout=compact&hide=html%2Ccss&username=locez)
-
+#### 🧸 Life
+- 🌠 Gacha gamer (Teyvat / Rhodes Island / Solaris-3).
+- 🧩 Gunpla builder (Straight build & panel lining).
+- 🎶 Looping **Mili**.
